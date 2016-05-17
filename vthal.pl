@@ -1,3 +1,5 @@
+#!/usr/bin/env perl
+#
 # This file is part of the LibreRVAC project
 #
 # Copyright © 2015-2016
@@ -16,7 +18,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#!/usr/bin/env perl
 use strict;
 use warnings;
 use v5.10;
